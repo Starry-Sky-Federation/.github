@@ -8,6 +8,6 @@ Open-source projects published under the SSF name.
 
 | Project | What it is |
 |---|---|
-| [**SSF Play**](https://github.com/Starry-Sky-Federation/ssf-play) | macOS apps that run the Windows games in your Steam library on Apple Silicon Macs: a patched Wine build, the open-source DXMT translation layer, an x87 accelerator, and a native window for the Steam client. Free Community Build in Releases; the scripts and patches are all here. |
+| [**SSF Play**](https://github.com/Starry-Sky-Federation/ssf-play) | MacOS apps that run the Windows games in your Steam library on Apple Silicon Macs: a patched Wine build, the open-source DXMT translation layer, an x87 accelerator, and a native window for the Steam client. Free Community Build in Releases; the scripts and patches are all here. |
 
 Security reports: `security@ssf.network` · Everything else: `support@ssf.network`
